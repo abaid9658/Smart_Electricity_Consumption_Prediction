@@ -1,9 +1,11 @@
 # ⚡ Smart Electricity Consumption Prediction & Energy Optimization System
 
 A production-style Machine Learning project that predicts household daily electricity
-consumption and generates personalized energy-saving recommendations. Built for the
-Teyzix Core Internship (Task ML-3).
+consumption and generates personalized energy-saving recommendations.
 
+## Live Links
+https://qt2rt5qk-8501.inc1.devtunnels.ms/
+https://smartelectricityconsumptionprediction.streamlit.app/
 ## Project Overview
 
 This system covers the complete ML lifecycle:
