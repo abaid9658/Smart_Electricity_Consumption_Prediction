@@ -4,7 +4,8 @@ A production-style Machine Learning project that predicts household daily electr
 consumption and generates personalized energy-saving recommendations.
 
 ## Live Links
-https://qt2rt5qk-8501.inc1.devtunnels.ms/
+https://qt2rt5qk-8501.inc1.devtunnels.ms/      
+
 https://smartelectricityconsumptionprediction.streamlit.app/
 ## Project Overview
 
