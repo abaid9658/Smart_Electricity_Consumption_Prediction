@@ -1,0 +1,9 @@
+Metric,Value
+Total Records,2000.0
+Total Features,53.0
+Missing Values,0.0
+Duplicate Rows,0.0
+Target Mean (kWh),11.68
+Target Std (kWh),4.44
+Target Min (kWh),2.98
+Target Max (kWh),23.88
